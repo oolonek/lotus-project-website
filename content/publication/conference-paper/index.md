@@ -1,66 +1,62 @@
 ---
-title: "An example conference paper"
-authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
+title: "Toward Open Science in Natural Products Research: Curation and
+  Dissemination of Natural Products Data in Wikidata"
+abstract: As contemporary bioinformatic and chemoinformatic capabilities are
+  reshaping natural products research, major benefits could result from an open
+  database of structure-organism pairs. Those pairs allow the identification of
+  distinct molecular structures found as components of heterogeneous chemical
+  matrices originating from living organisms. Current databases with such
+  information suffer from paywall restrictions, limited taxonomic scope, poorly
+  standardized fields, and lack of interoperability. To ensure data quality,
+  references to the work that describes the structure-organism relationship is
+  mandatory. To fill this void, we collected and curated a set of
+  structure-organism pairs from publicly available natural products databases to
+  yield LOTUS (naturaL prOducTs occUrrences databaSe), which contains over
+  500,000 curated and referenced structure-organism pairs. We make all scripts
+  used for data collection, curation, and dissemination available. Aimed at
+  providing unlimited access as well as standardized linkage to data from other
+  resources, the extracted information is hosted on Wikidata. The diffusion of
+  these referenced structure-organism pairs on the Wikidata framework addresses
+  many of the limitations of currently-available databases and facilitates
+  linkage to existing biological and chemical data resources. Collectively, this
+  resource represents an important advancement in the design and deployment of a
+  comprehensive and collaborative natural products knowledge base.
+slides: null
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "3"
+authors:
+  - Admin
+  - AdrianoRutz
+  - JonathanBisson
+publication: In *Source Themes Conference*
+featured: true
+tags:
+  - Source Themes
+projects:
+  - internal-project
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: "#"
+url_project: ""
+publication_short: In *STC*
+url_source: "#"
+url_video: "#"
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+links:
+  - name: Custom Link
+    url: http://example.org
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+  filename: graphicalabstract.png
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: "#"
+doi: ""
 ---
 
 {{% callout note %}}
