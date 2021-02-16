@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-Thanks to Maria, we now have an up and running version of LOTUS at https://lotus.naturalproducts.net/
+Thanks to Maria, we now have an up and running version of LOTUS at https://lotus.naturalproducts.net/ 🧘‍♀️
 
 <!--more-->
 
