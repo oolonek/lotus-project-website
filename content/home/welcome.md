@@ -18,7 +18,7 @@ cta:
   url: 'https://gitlab.com/lotus7'
   label: Gitlab Repo
   icon_pack: fab
-  icon: fa-gitlab
+  icon: gitlab
 cta_alt:
   url: 'https://gitlab.com/lotus7/lotusProcessor/-/blob/af9e6ed2eaa5f43b3cfc436dbe527a9ea10cfbab/README.adoc'
   label: View Documentation
