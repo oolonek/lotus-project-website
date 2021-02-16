@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "dark"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -66,7 +66,7 @@ math = false
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "lotus-project@protonmail.com"
 phone = "888 888 88 88"
 
 # Address
