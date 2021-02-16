@@ -32,7 +32,7 @@ An embedded wd query example
 
 <!--more-->
 
-The folowing Wikidata SPAQRL query willl retrieve all compounds found in taxa whose parent taxon name is _"Virola"._
+The folowing Wikidata SPAQRL query will retrieve all compounds found in taxa whose parent taxon name is _"Virola"._
 
 
 <div class="container">
