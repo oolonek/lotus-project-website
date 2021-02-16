@@ -27,9 +27,9 @@ publication_types:
   - "3"
 authors:
   - Admin
-  - AdrianoRutz
-  - JonathanBisson
-publication: In *Source Themes Conference*
+  - Adriano Rutz
+  - Jonathan Bisson
+publication: In *eLife*
 featured: true
 tags:
   - Source Themes
@@ -40,7 +40,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: "#"
 url_project: ""
-publication_short: In *STC*
+publication_short: In *eLife*
 url_source: "#"
 url_video: "#"
 date: 2013-07-01T00:00:00Z
@@ -49,7 +49,7 @@ links:
   - name: Custom Link
     url: http://example.org
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: graphicalabstract.png
