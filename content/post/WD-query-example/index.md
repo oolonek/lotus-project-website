@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "<i>Virola</i> compounds - a SPARQL query example"
+title: "Virola compounds - a SPARQL query example"
 subtitle: ""
 summary: ""
 authors: []
