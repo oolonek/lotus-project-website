@@ -37,4 +37,4 @@ Thanks to Maria, we now have an up and running version of LOTUS at https://lotus
 The <https://lotus.naturalproducts.net/> version allows a more user friendly experience (such as structural search, taxonomy oriented query, flat table and structures exports).
 
 
-<embed src="https://lotus.naturalproducts.net/" style="width:500px; height: 300px;">
+<embed src="https://lotus.naturalproducts.net/" style="width:1000px; height: 800px;">
