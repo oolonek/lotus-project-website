@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Virola compounds - a SPARQL query example"
+title: "_Virola_ compounds - a SPARQL query example"
 subtitle: ""
 summary: ""
 authors: []
@@ -37,7 +37,7 @@ The folowing Wikidata SPAQRL query willl retrieve all compounds found in taxa wh
 
 <div class="container">
         <div id="one-tab-content">
-            <h5 class="title is-5" style="text-align:center;"> Virola's compounds </h5>
+            <h5 class="title is-5" style="text-align:center;"> _Virola_ genus compounds </h5>
         <div class="columns is-centered"
         <p style="text-align: center">
             <iframe width=120% height="600" src="https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fcompound%20%3FcompoundLabel%20%3Finchikey%20%3Finchi%20%3Fsmiles_isomeric%20%3Fsmiles_canonical%20%3Fcas%20%3Fchebi%20%3Fchembl%20%3Fpubchem%20%3Ftaxon%20%3Ftaxon_name%20%3Ftaxon_id_gbif%20%3Ftaxon_id_ncbi%20%3Freference%20%3Freference_doi%20%3Freference_title%20WHERE%20%7B%0A%20%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%0A%20%20%3Fparent_taxon%20wdt%3AP225%20%27Virola%27.%0A%20%20%3Fcompound%20wdt%3AP235%20%3Finchikey.%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP231%20%3Fcas.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP233%20%3Fsmiles_canonical.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP234%20%3Finchi.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP592%20%3Fchembl.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP662%20%3Fpubchem.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP683%20%3Fchebi.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP2017%20%3Fsmiles_isomeric.%20%7D%0A%20%20%7B%0A%20%20%20%20%3Fcompound%20p%3AP703%20%3Fstatement.%0A%20%20%20%20%3Fstatement%20ps%3AP703%20%3Ftaxon.%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP225%20%3Ftaxon_name.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP846%20%3Ftaxon_id_gbif.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP685%20%3Ftaxon_id_ncbi.%20%7D%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%3Fstatement%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%20%20%3Fref%20pr%3AP248%20%3Freference.%0A%20%20%20%20%20%20%3Freference%20wdt%3AP356%20%3Freference_doi%3B%0A%20%20%20%20%20%20%20%20wdt%3AP1476%20%3Freference_title.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D"></iframe>
