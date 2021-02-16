@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Otol Id Accepted"
+title: "Otol Id Accepted !"
 subtitle: ""
 summary: ""
 authors: []
@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-After a short time and a proposal by Adriano (see how to link people here), a new property, Open Tree of Life ID (P9157), has been acepted on Wikidata.
+After a short time and a proposal by Adriano (see how to link people here), a new property, Open Tree of Life ID (P9157), has been acepted on Wikidata. 🔥
 
 <!--more-->
 
