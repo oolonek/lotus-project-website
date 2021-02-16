@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: 2021-02-16T15:49:43+01:00
 lastmod: 2021-02-16T15:49:43+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
