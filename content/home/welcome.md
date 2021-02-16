@@ -16,9 +16,9 @@ design:
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://gitlab.com/lotus7'
-  label: Get Started
-  icon_pack: fas
-  icon: download
+  label: Gitlab Repo
+  icon_pack: fab
+  icon: fa-gitlab
 cta_alt:
   url: 'https://gitlab.com/lotus7/lotusProcessor/-/blob/af9e6ed2eaa5f43b3cfc436dbe527a9ea10cfbab/README.adoc'
   label: View Documentation
