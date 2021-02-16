@@ -1,6 +1,7 @@
 ---
 title: "Toward Open Science in Natural Products Research: Curation and
   Dissemination of Natural Products Data in Wikidata"
+  
 abstract: As contemporary bioinformatic and chemoinformatic capabilities are
   reshaping natural products research, major benefits could result from an open
   database of structure-organism pairs. Those pairs allow the identification of
