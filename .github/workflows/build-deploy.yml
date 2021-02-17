@@ -21,5 +21,5 @@ jobs:
       env:
         HUGO_VERSION: 0.80.0
         TARGET_REPO: oolonek/oolonek.github.io
-        TOKEN: ${{ secrets.TOKEN }}
+        TOKEN: ${{ secrets.BUILD_DEPLOY_SECRET }}
         CNAME: www.oolonek.xyz
