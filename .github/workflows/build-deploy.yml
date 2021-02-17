@@ -25,6 +25,8 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.80.0
+        HUGO_EXTENDED: true
         TARGET_REPO: oolonek/oolonek.github.io
+          TARGET_BRANCH: main
         TOKEN: ${{ secrets.BUILD_DEPLOY_SECRET }}
         CNAME: www.oolonek.xyz
