@@ -14,7 +14,7 @@ role: PhD.
 
 # Organizations/Affiliations
 organizations:
-- name: University of Geneva
+- name: University of Genevaaaaaaaaa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
